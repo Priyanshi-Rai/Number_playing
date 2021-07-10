@@ -43,17 +43,6 @@
 
 
 
-<br />
-<p align="center">
-  <a href="https://github.com/Priyanshi-Rai/coding-connoisseurs.github.io">
-    <img src="https://github.com/Priyanshi-Rai/coding-connoisseurs.github.io/blob/master/Images/motto1.jpg" alt="Logo" width="600" height="300">
-  </a>
-
-  <h2 align="center"><B>MOTTO</B></h2>
-</p>
-
-
-
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
@@ -73,7 +62,11 @@
       </ul>
     </li>
     <li><a href="#contributing">Contributing</a></li>
-    <!--<li><a href="#contact">Contact</a></li>-->
+      <ul>  
+         <li><a href="#Prerequisites">Prerequisites</a></li>
+      </ul>
+      <!--<li><a href="#contact">Contact</a></li>-->
+    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
@@ -84,7 +77,9 @@
 ## About The Project
 
 
-Having a website with friendly interface is a dream of every college student where they can get all the useful information about their career and if the website is created **by the students , for the student and to the student** is like free extra cheese on the pizza.
+This project is a website with the motto of providing precise and quality content to the students about the opportunitoes and resources we are surrounded in today's digital world 
+
+Having a website with friendly interface is a dream of every student where they can get all the useful information about their career and if the website is created **by the students , for the student and to the student** , it fulfill all the needs.
 
 _You may be thinking why we need it:_
 * Your time should be focused on creating something amazing. A project that solves a problem and helps others instead of searching where and what to do.
@@ -97,9 +92,11 @@ _You may be thinking why we need it:_
 * [javascript](https://www.javascript.com/)
 * [html](https://www.w3schools.com/html/default.asp)
 
+<!--GETTING STARTED -->
+## Getting Started
 
 
-<!-- GETTING STARTED -->
+<!-- TOUR -->
 ## TOUR
 
 This websites has different section as per your requirements.
@@ -109,30 +106,12 @@ This websites has different section as per your requirements.
 
 ### Opportunities
 
-   _This section of website will help aware you about the Open Source, Competitive Programming, Developors clubs , Internship and Job_
+   This section of website will help aware you about the Open Source, Competitive Programming, Developors clubs , Internship and Job
 
-<br />
-<p align="center">
-  <a href="https://github.com/Priyanshi-Rai/coding-connoisseurs.github.io">
-    <img src="https://github.com/Priyanshi-Rai/coding-connoisseurs.github.io/blob/master/Images/image1.jpg" alt="opportunities" width="500" height="300">
-  </a>
-
-  <h2 align="center"></h2>
-</p>
  
-
 ### Resources
-
+ 
         We have a lot of resources around us all we need is to grab it.
-
-<br />
-<p align="center">
-  <a href="https://github.com/Priyanshi-Rai/coding-connoisseurs.github.io">
-    <img src="https://github.com/Priyanshi-Rai/coding-connoisseurs.github.io/blob/master/Images/resources.jpg" alt="resources" width="600" height="300">
-  </a>
-
-  <h2 align="center"></h2>
-</p>
 
   
 
@@ -146,10 +125,23 @@ This websites has different section as per your requirements.
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 _Very simple steps..._
 1. Fork the Project
-2. Create an issue or make the changes you want
-3. Commit your Changes
-4. Open a Pull Request
+2. Create an issue to discuss the changes with the team members or seniors and get it assigned 
+3. Make the necessary changes in the respective folder or creating your own as per the need
+5. Commit your Changes
+6. Open a Pull Request
+ _We will reach to you as soon as possible_
 
+### Prereqiusites
+
+To contribute to this project it is recommending to have an understanding of following:
+
+1.)Javascript
+
+2.)Git
+
+3.)HTML
+
+4.)
 
 <!-- CONTACT 
 ## Contact
@@ -158,6 +150,12 @@ Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
 
 Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
 -->
+
+
+<!--ROADMAP-->
+## Roadmap
+
+See the [open issues](https://github.com/Coding-Connoisseurs/coding-connoisseurs.github.io/issues) for a list of proposed features (and known issues).
 
 
 <!-- ACKNOWLEDGEMENTS -->
